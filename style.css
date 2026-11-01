@@ -198,6 +198,7 @@ button:hover::after {
     align-items: center;
     padding: 24px 20px;
     color: white;
+    background-color: #2c2829;
 }
 
 .footer p {
